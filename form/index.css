@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@300&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Mitr', sans-serif;
+}
+
+.body {
+  margin-top: 10px;
+}
+
+.navbar {
+  height: 7vh;
+}
+
+.makeright {
+  margin-left: auto;
+}
+
+.carousel-item {
+  height: 93vh;
+}
+
+.carousel-item img {
+  height: 100%;
+  object-fit: fill;
+}
